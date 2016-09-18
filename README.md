@@ -3,7 +3,7 @@
 ## Command line
 
 ### Basic Commands
- - `pwd [-LP]` // prints current directory
+ - `pwd [-LP] prints current directory`
  - `cd [-L|-P] [dir]`
  - `ls [-ABCFGHLOPRSTUWabcdefghiklmnopqrstuwx1] [file ...]`
  - `mv [-f | -i | -n] [-v] source target`
